@@ -1,2 +1,16 @@
-# time_tracking_system
+# Time Tracking System
+
 Automated Python-based time tracking system with features to correct, duplicate, and manually add time entries. Generates detailed monthly reports for efficient and reliable employee time management.
+
+## Features
+- Correct missing or extra time entries
+- Duplicate days or entries
+- Add time entries manually
+- Generate detailed monthly reports
+- Automatic validation of time entries
+
+## Installation
+```bash
+git clone https://github.com/yourusername/time_tracking_system.git
+cd time_tracking_system
+pip install -r requirements.txt
