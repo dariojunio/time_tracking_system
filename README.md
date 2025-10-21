@@ -9,6 +9,11 @@ Automated Python-based time tracking system with features to correct, duplicate,
 - Generate detailed monthly reports
 - Automatic validation of time entries
 
+## Requirements
+
+- A text file named `moviment.txt` is required to run the program.
+- The file must contain the time entries and should be placed in the same folder as the code
+
 ## Installation
 ```bash
 git clone https://github.com/yourusername/time_tracking_system.git
